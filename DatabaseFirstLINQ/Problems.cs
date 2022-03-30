@@ -26,15 +26,15 @@ namespace DatabaseFirstLINQ
             ProblemEight();
             ProblemNine();
             ProblemTen();
-            ProblemEleven();
+            /*ProblemEleven();
             ProblemTwelve();
             ProblemThirteen();
             ProblemFourteen();
             ProblemFifteen();
             ProblemSixteen();
             ProblemSeventeen();
-            ProblemEighteen();
-            //ProblemNineteen();
+            ProblemEighteen();*/
+            ProblemNineteen();
             //ProblemTwenty();
         }
 
